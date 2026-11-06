@@ -89,9 +89,6 @@ DevOps and Cloud Engineer with 7 years of experience designing, automating and o
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=munibkhan&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munibkhan&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com/?user=munibkhan&theme=dark&hide_border=true" alt="GitHub streak" />
 
 </div>
