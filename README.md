@@ -2,10 +2,10 @@
 
 # Abdul Munib Khan
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+GCP;Terraform+%7C+CI%2FCD+%7C+Docker" alt="DevOps & Cloud Engineer" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Sr.+DevOps+%26+Cloud+Engineer;AWS+%7C+GCP;Terraform+%7C+CI%2FCD+%7C+Docker+%7C+Kubernetes" alt="Sr. DevOps & Cloud Engineer" /></a>
 
 <a href="https://www.linkedin.com/in/munib-khan-devops"><img src="https://img.shields.io/badge/LinkedIn-munib--khan--devops-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:munibk38@gmail.com"><img src="https://img.shields.io/badge/Email-munibk38%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:munibkhan6665@gmail.com"><img src="https://img.shields.io/badge/Email-munibkhan6665%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -13,10 +13,10 @@
 
 ## 👋 About Me
 
-DevOps and Cloud Engineer with 7 years of experience designing, automating and operating cloud infrastructure on AWS and GCP. I build infrastructure as code, CI/CD pipelines and containerized deployments, and keep them monitored and secure.
+Sr. DevOps Engineer at Arbisoft with 7 years of experience designing, automating and operating cloud infrastructure on AWS and GCP. I build infrastructure as code, CI/CD pipelines and containerized deployments, and keep them monitored, secure, HIPAA-compliant and cost-optimized.
 
 - 🔭 **Current focus:** AWS infrastructure with Terraform, CI/CD with GitHub Actions, ECS Fargate deployments
-- 💬 **Ask me about:** Terraform, AWS, Docker, CI/CD pipelines, monitoring
+- 💬 **Ask me about:** Terraform, AWS, Docker, CI/CD pipelines, monitoring, cloud cost optimization
 
 ---
 
@@ -40,6 +40,7 @@ DevOps and Cloud Engineer with 7 years of experience designing, automating and o
 ### 🐳 Containers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS ECS Fargate](https://img.shields.io/badge/AWS_ECS_Fargate-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes_(basics)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 📊 Monitoring & Logging
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
@@ -59,7 +60,6 @@ DevOps and Cloud Engineer with 7 years of experience designing, automating and o
 ### 🐧 OS & Scripting
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
@@ -68,9 +68,9 @@ DevOps and Cloud Engineer with 7 years of experience designing, automating and o
 | ☁️ Cloud & IaC | 🚀 Automation | 🔍 Operations |
 |---|---|---|
 | AWS and GCP infrastructure | CI/CD pipelines | Monitoring and logging |
-| Terraform, CloudFormation, Ansible | Docker and ECS Fargate deployments | Autoscaling and load balancing |
-| VPC, private subnets, bastion hosts | Bash and PowerShell scripting | Secrets management |
-| Databases on RDS, Cloud SQL and more | Python, Node.js and PHP deployments | Linux administration |
+| Terraform, CloudFormation, Ansible | Docker and ECS Fargate deployments | Autoscaling and Load Balancing |
+| VPC, Bastion Hosts, Secrets Manager | Bash scripting | Cloud cost optimization |
+| Databases on RDS, DynamoDB, Cloud SQL | Linux administration | HIPAA compliance |
 
 ---
 
@@ -80,8 +80,11 @@ DevOps and Cloud Engineer with 7 years of experience designing, automating and o
 |---|---|---|
 | **Supercal** | AWS, Terraform, ECS Fargate, RDS, CloudFront, GitHub Actions, Datadog | AI-powered coordination for multi-party meetings |
 | **Deets** | AWS, Terraform, ECS Fargate, GitHub Actions | City guide website for travelers |
+| **Sozie** | AWS, CodePipeline, CodeDeploy | Review and user-generated content platform for brands |
+| **BVS Xiangqi** | AWS, GitHub Actions | Chinese chess (Xiangqi) platform |
 | **Sausage Dog Design** | GCP, Ansible, App Engine, Cloud Build, Cloud SQL | WordPress hosting and delivery on GCP |
 | **Moonbeam** | AWS, CloudFormation, CodePipeline, ElastiCache, OpenSearch | Django and React application on AWS |
+| **Umwella** | AWS, HIPAA compliance | Health check platform |
 
 ---
 
@@ -97,14 +100,15 @@ DevOps and Cloud Engineer with 7 years of experience designing, automating and o
 
 ## ✅ Core Competencies
 
-```text
-[x] Cloud Infrastructure          [x] Infrastructure as Code
-[x] CI/CD Automation              [x] Containerization
-[x] Container Orchestration       [x] Monitoring & Observability
-[x] Linux System Administration   [x] Cloud Security
-[x] Autoscaling & High Availability
-[x] Database Management           [x] Scripting & Automation
-```
+| | |
+|---|---|
+| ✅ Cloud Infrastructure | ✅ Infrastructure as Code |
+| ✅ CI/CD Automation | ✅ Containerization |
+| ✅ Container Orchestration | ✅ Monitoring & Observability |
+| ✅ Linux System Administration | ✅ Cloud Security |
+| ✅ Database Management | ✅ Scripting & Automation |
+| ✅ Autoscaling & High Availability | ✅ Cost Optimization |
+| ✅ HIPAA Compliance | ✅ Business Continuity & Disaster Recovery |
 
 <div align="center">
 
